@@ -1,0 +1,11 @@
+1️⃣ Create abv.txt
+Put this file in the same folder as your .py script.
+Format it like this (one shortcut per line):
+
+dispose=dpo
+example=ex
+another=an
+Format rules:
+	•	fullword=shortcut
+	•	lowercase only
+	•	no spaces around =
