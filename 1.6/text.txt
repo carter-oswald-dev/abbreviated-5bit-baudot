@@ -1,0 +1,1 @@
+this is a test of the text compression and handling of the baudot encoder the quick brown fox jumps over the lazy dog cause he was running away from his mob loan shark and does not want to pay
